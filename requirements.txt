@@ -1,6 +1,0 @@
-streamlit
-fastapi
-uvicorn
-requests
-Pillow
-python-multipart
